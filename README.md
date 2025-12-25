@@ -1,4 +1,4 @@
-# bootsrap
+# Bootsrap
 ⭐️ A simple project made for practicing Bootsrap & Responsive.
 -----
 ![Screenshot 2025-12-25 at 16 27 58](https://github.com/user-attachments/assets/34461101-8b23-4c37-858a-1e37e57512ad)
