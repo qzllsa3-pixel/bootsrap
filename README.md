@@ -9,7 +9,7 @@
 ---
 - 👩🏻‍💻 developed by Ghazal Salehyar
 --- 
-- 🗓️ created  12/20/2025
+- 🗓️ created  12/25/2025
 --- 
 - 💻 technologies used - Html , css(flexbox, transform, animation)
 --- 
