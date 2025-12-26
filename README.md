@@ -11,6 +11,4 @@
 --- 
 - 🗓️ created  12/25/2025
 --- 
-- 💻 technologies used - Html , css(flexbox, transform, animation)
---- 
 - 🔗 how to reach me: with my [instagram](https://www.instagram.com/qazalldev?igsh=NG0zbGc2dWdzYnkx&utm_source=qr) and [linkedin](https://www.linkedin.com/in/ghazal-salehyar/)
